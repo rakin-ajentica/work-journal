@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "7c3096395e30e1b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "19bb7c947e765462",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd2f13f096c57101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-Templates/daily-note.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "daily-note.md"
+            }
+          },
+          {
+            "id": "875d6f9c59bdebef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Daily-Logs/2026-05-15.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-15.md"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfc6f06923d3ee96",
+    "type": "split",
+    "children": [
+      {
+        "id": "37f5d610fbde2904",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62e367ae26e81492",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c184948d721a066c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7885cc67e549deeb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce9f2ce453004051",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f33773b528778e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6039d53e94606e5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/daily-note.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for daily-note.md"
+            }
+          },
+          {
+            "id": "4fda36ab5b8b4ac4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/daily-note.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from daily-note.md"
+            }
+          },
+          {
+            "id": "608f90f5eb81907a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b780d93680fbbc24",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0634d4e7821e71de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/daily-note.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of daily-note.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "875d6f9c59bdebef",
+  "lastOpenFiles": [
+    "01-Daily-Logs/2026-05-14.md.md",
+    "01-Daily-Logs/2026-05-15.md.md",
+    "99-Templates/daily-note.md.md",
+    "README.md.md",
+    "99-Templates/project-note.md.md",
+    "00000-Dashboard/home.md.md",
+    "00-Dump/Untitled.md",
+    "{{date}}.md",
+    "nxtthing.md",
+    "99-Templates/brain-dump.md.md",
+    "00000-Dashboard",
+    "99-Templates/zettel-temp.md.md",
+    "API Structure.md",
+    "00-Dump/Home.md.md",
+    "99-Attachments",
+    "03-Zettels",
+    "02-Projects/nxtthing/Features",
+    "02-Projects/nxtthing/Architecture",
+    "02-Projects/nxtthing/Meetings",
+    "02-Projects/nxtthing",
+    "02-Projects",
+    "01-Daily-Logs",
+    "00-Dump",
+    "Welcome.md"
+  ]
+}
