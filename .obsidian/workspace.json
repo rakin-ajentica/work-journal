@@ -27,16 +27,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily-Logs/2026-05-15.md.md",
+                "file": "01-Daily-Logs/2026-05-14.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-15.md"
+              "title": "2026-05-14.md"
+            }
+          },
+          {
+            "id": "9765d7478fdef73e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Daily-Logs/2026-05-18.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-18.md"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ce9f2ce453004051",
@@ -199,10 +212,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "875d6f9c59bdebef",
+  "active": "cd2f13f096c57101",
   "lastOpenFiles": [
     "01-Daily-Logs/2026-05-14.md.md",
     "01-Daily-Logs/2026-05-15.md.md",
+    "01-Daily-Logs/2026-05-18.md.md",
     "99-Templates/daily-note.md.md",
     "README.md.md",
     "99-Templates/project-note.md.md",
