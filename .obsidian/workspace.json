@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily-Logs/2026-05-20.md.md",
+                "file": "01-Daily-Logs/2026-05-22.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-20.md"
+              "title": "2026-05-22.md"
             }
           },
           {
@@ -201,6 +201,8 @@
   "active": "9765d7478fdef73e",
   "lastOpenFiles": [
     "01-Daily-Logs/2026-05-19.md.md",
+    "01-Daily-Logs/2026-05-22.md.md",
+    "01-Daily-Logs/2026-05-21.md.md",
     "01-Daily-Logs/2026-05-20.md.md",
     "00-Dump/0002.md.md",
     "00-Dump/slack-msg-styles.md.md",
