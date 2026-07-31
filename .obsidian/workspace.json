@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily-Logs/July, 2026/2026-07-27.md",
+                "file": "01-Daily-Logs/July, 2026/2026-07-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-27"
+              "title": "2026-07-31"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily-Logs/July, 2026/2026-07-17.md",
+                "file": "01-Daily-Logs/July, 2026/2026-07-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-17"
+              "title": "2026-07-31"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b89434f204f28d8a",
@@ -218,10 +219,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5561fe2e8bc818e1",
+  "active": "14275e3daa786e78",
   "lastOpenFiles": [
-    "01-Daily-Logs/July, 2026/2026-07-23.md",
+    "01-Daily-Logs/July, 2026/2026-07-30.md",
+    "01-Daily-Logs/July, 2026/2026-07-17.md",
+    "01-Daily-Logs/July, 2026/2026-07-31.md",
+    "01-Daily-Logs/July, 2026/2026-07-29.md",
     "01-Daily-Logs/July, 2026/2026-07-27.md",
+    "01-Daily-Logs/July, 2026/2026-07-23.md",
     "01-Daily-Logs/July, 2026/2026-07-24.md",
     "01-Daily-Logs/July, 2026/2026-07-22.md",
     "01-Daily-Logs/July, 2026/2026-07-28.md",
@@ -242,10 +247,6 @@
     "01-Daily-Logs/June, 2026/2026-06-09.md",
     "01-Daily-Logs/June, 2026/2026-06-08.md",
     "01-Daily-Logs/June, 2026/2026-06-05.md",
-    "01-Daily-Logs/June, 2026/2026-06-04.md",
-    "01-Daily-Logs/June, 2026/2026-06-03.md",
-    "01-Daily-Logs/June, 2026/2026-06-02.md",
-    "01-Daily-Logs/June, 2026/2026-06-01.md",
     "01-Daily-Logs/July, 2026/brain-dump",
     "01-Daily-Logs/July, 2026",
     "01-Daily-Logs/June, 2026",
